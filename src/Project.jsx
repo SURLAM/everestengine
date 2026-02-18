@@ -360,7 +360,7 @@ export default function EverestEngine() {
 
           {/* Stats */}
           <div
-            className="grid grid-cols-2 md:grid-cols-4 gap-4 animate-fadeInUp p-5  mt-45 md:mt-25"
+            className="grid grid-cols-2 md:grid-cols-4 gap-4 animate-fadeInUp p-5  lg:mt-45 md:mt-25 "
             style={{ animationDelay: "0.3s" }}
           >
             {[
